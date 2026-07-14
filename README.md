@@ -21,3 +21,5 @@ www.gbonganarchive.com.ng
 2. **Archive Management**: Create, edit, and manage all archive content
 3. **User Management**: Django admin interface for full system control
 4. **Media Management**: Upload and manage images and files
+
+Note: Source code currently confidential, please request for access
